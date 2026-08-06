@@ -12,6 +12,6 @@
     "express": "^4.19.2",
     "fluent-ffmpeg": "^2.1.3",
     "telegram": "^2.22.2",
-    "yt-dlp-exec": "^2.5.8"
+    "yt-dlp-exec": "latest"
   }
 }
